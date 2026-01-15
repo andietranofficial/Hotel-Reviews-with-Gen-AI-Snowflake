@@ -8,15 +8,18 @@ If I am hired as a data scientist at a global hotel chain, Executive Resorts. I 
 The Executive Resorts is a global hotel chain. Their database contains hotel reviews - including the rating, review text, review language, and other features. We'll use Cortex to perform various tasks on this data, showcasing Snowflake's powerful generative AI functionality!
 
 
-# Questions to answer
+# Questions to Answer
 1. How many reviews exist for Executive Resorts hotels in Mexico and other cities?
-2. The regional manager in Cannes is keen to streamline the workflow for analyzing customer reviews and has asked you to apply your generative AI skills for this task!
+2. The regional manager in Cannes is keen to streamline the workflow for analyzing customer reviews with generative AI skills.
 
 # Steps
 1. Create a database named "hotel_reviews" with one table "hotel_reviews"
 2. Create a notebook
 3. Install python package: snowflake-ml-python
 4. Analysing with Python and SQL
+   4.1 Discover the dataset
+   4.2 Summarize the reviews into a shorter version
+   4.3 
 
 
 
