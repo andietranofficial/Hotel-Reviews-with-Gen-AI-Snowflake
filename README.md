@@ -22,7 +22,7 @@ The Executive Resorts is a global hotel chain. Their database contains hotel rev
 # Steps
 1. Create a database named "hotel_reviews" with one table "hotel_reviews"
 2. Create a notebook
-3. Install python package: snowflake-ml-python
+3. Install python package: snowflake-ml-python, import neccesary libraries for each task below
 4. Analysing with Python and SQL
    
    4.1 Discover the dataset
@@ -39,7 +39,7 @@ The Executive Resorts is a global hotel chain. Their database contains hotel rev
 
    4.7 Answer extraction
 
-   4.8 Designing multi stpe AI workflows
+   4.8 Designing multi step AI workflows: translate, summarizing, classifying, response, and translate back to original language.
 
 
 # Data Source & Project Idea
