@@ -17,11 +17,14 @@ The Executive Resorts is a global hotel chain. Their database contains hotel rev
 2. Create a notebook
 3. Install python package: snowflake-ml-python
 4. Analysing with Python and SQL
+   
    4.1 Discover the dataset
+   
    4.2 Summarize the reviews into a shorter version
-   4.3 
+   
+   4.3 Generate response for each review
 
-
+   4.4 Build a classification pipeline
 
 
 # Data Source & Project Idea
