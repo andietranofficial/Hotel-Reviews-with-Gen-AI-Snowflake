@@ -16,6 +16,9 @@ The Executive Resorts is a global hotel chain. Their database contains hotel rev
    
    2.2 You've been asked to help the Hyatt Regency Palais hotel understand customer's sentiment. Due to a pipeline issue in September 2023, all ratings were assigned randomly during that period, making sentiment analysis essential for understanding actual customer feelings.
 
+3. You've been asked by the regional team at Executive Resorts to help them review guest feedback submitted in Spanish. Many of their hotels in Mexico receive high volumes of non-English reviews, and they want to ensure this valuable insight isn't overlooked. You will work on translate reviews, extract answers from text, and chain multiple function.
+
+   
 # Steps
 1. Create a database named "hotel_reviews" with one table "hotel_reviews"
 2. Create a notebook
@@ -31,6 +34,12 @@ The Executive Resorts is a global hotel chain. Their database contains hotel rev
    4.4 Build a classification pipeline
 
    4.5 Sentiment analysis
+
+   4.6 Translate Spanish
+
+   4.7 Answer extraction
+
+   4.8 Designing multi stpe AI workflows
 
 
 # Data Source & Project Idea
