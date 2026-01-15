@@ -13,6 +13,7 @@ The Executive Resorts is a global hotel chain. Their database contains hotel rev
 2. The regional manager in Cannes is keen to streamline the workflow for analyzing customer reviews with generative AI skills.
 
    2.1 The regional manager for Switzerland wants your help classifying recent negative reviews to identify common problems and develop action plans. They've provided predefined categories for classifying reviews, so you can build an automated classification pipeline.
+   
    2.2 You've been asked to help the Hyatt Regency Palais hotel understand customer's sentiment. Due to a pipeline issue in September 2023, all ratings were assigned randomly during that period, making sentiment analysis essential for understanding actual customer feelings.
 
 # Steps
